@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapOnTap Feature Check</string>
+    <string name="check_google_play_services_text">Check google play services</string>
+    <string name="check_sensors_availability_text">Check sensors availability</string>
+    <string name="sdk_number_text">SDK Number</string>
+    <string name="device_version_text">Device version</string>
+</resources>
